@@ -1,0 +1,9 @@
+[submodule ".github/workflows/themes/m10c"]
+	path = .github/workflows/themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule ".github/themes/m10c"]
+	path = .github/themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git

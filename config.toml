@@ -1,4 +1,23 @@
-baseURL = "http://example.org/"
+baseURL = "https://ParkDyel.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ParkDyel.0216"
+author = "ParkDyel"
+description = "용맹함을 가장한 무지함"
+avatar = "https://avatars1.githubusercontent.com/u/13329748?s=400&u=cba5ab6249e73518215f32d8a7427c116ce32f63&v=4"
+menu_item_seperator = "*"
 theme = "m10c"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/ParkDyel"
+
+[[params.social]]
+  name = "mail"
+  url = "dyel.sns@gmail.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about ParkDyel"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
