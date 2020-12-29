@@ -1,7 +1,7 @@
 ---
 title: "이사"
 date: 2020-12-23T18:32:29+09:00
-draft: true
+draft: false
 tags: ["Note"]
 ---
 

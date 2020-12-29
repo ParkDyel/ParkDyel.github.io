@@ -1,7 +1,7 @@
 ---
-title: "Rename"
+title: "파일명 규칙 바꾸는 스크립트 작성하기!"
 date: 2020-12-30T03:53:46+09:00
-draft: true
+draft: false
 tags: ["Coding"]
 ---
 
